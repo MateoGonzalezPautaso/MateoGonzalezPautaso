@@ -1,13 +1,29 @@
-<h1> Acerca de mi </h1>
+# Hi, I'm Mateo
 
-Hola, soy __Mateo Gonzalez Pautaso__ y tengo 20 años
+Engineer-in-Training
 
-Actualmente estoy estudiando en la _**Facultad de Ingeniería de Buenos Aires**_, la carrera de _**Ingeniería Informática**_.
+---
 
-Tambien juego al Rugby en el Don Bosco Rugby <span style="color:blue">D</span><span style="color:red">B</span><span style="color:white">R</span>🏈 y voy al gimnasio para complementar con el deporte, lo considero fundamental para desconectarse de la tecnologia por momentos del día
+## 🎯 About Me
+- Computer Engineering student.
+- Languages: Spanish (native), English (B2/C1, Cambridge), currently learning Mandarin Chinese.
+- Rugby player.
 
-Si me quieren conocer mas:
+## 💡 Skills & Technologies
+- Programming Languages: C, Clojure, Python, Java, Assembly.
+- Operating Systems: Linux, process scheduling, concurrency, memory management, filesystems.
+- Web Development: HTML, CSS, Flask.
+- Tools: Git, Docker, VS Code.
 
-[<img src="https://seeklogo.com/images/I/instagram-new-2016-glyph-logo-84CB825424-seeklogo.com.png" width=50>](https://www.instagram.com/mate.gp/?hl=es-la)
+## 📈 Goals
+- Apply best practices in testing, QA, and TDD in software projects.
+- Contribute to open source projects and developer communities.
+- Strengthen leadership and communication skills.
+- Reach HSK3 proficiency in Chinese.
 
- ---
+## 📫 Contact
+- GitHub: [github.com/MateoGonzalezPautaso](https://github.com/MateoGonzalezPautaso)
+- Email: mateogonzalezpautaso@gmail.com
+- LinkedIn: [linkedin.com/in/mateo-gonzalez-pautaso-a89a4223b](https://www.linkedin.com/in/mateo-gonzalez-pautaso-a89a4223b)
+
+---
