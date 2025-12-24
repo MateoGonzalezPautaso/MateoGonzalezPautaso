@@ -42,7 +42,7 @@ I am a software engineering student with a strong background in **critical syste
 ## 📫 Let's Connect!
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mateo-gonzalez-pautaso-a89a4223b" target="_blank">
+  <a href="https://www.linkedin.com/in/mateo-gonzalez-pautaso" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:mateogonzalezpautaso@gmail.com">
